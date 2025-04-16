@@ -22,11 +22,9 @@ The dataset includes the following columns:
 UPDATE RETAIL
 SET InvoiceDate = STR_TO_DATE(InvoiceDate, '%Y-%m-%d %H:%i:%s')
 WHERE InvoiceDate IS NULL OR STR_TO_DATE(InvoiceDate, '%Y-%m-%d %H:%i:%s') IS NOT NULL; ```
-
-
 ```
 
-🧰 Tools & Technologies
+# 🧰 Tools & Technologies
 SQL (MySQL / PostgreSQL / SQLite)
 
 Data Cleaning – STR_TO_DATE, removing nulls, duplicates
