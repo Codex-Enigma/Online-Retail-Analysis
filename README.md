@@ -58,5 +58,5 @@ Date Functions – EXTRACT(YEAR | MONTH), GROUP BY, ORDER BY
 - 📅 Sales peak during the holiday season (Q4), highlighting the importance of seasonal strategy
 - 💰 High AOV months offer opportunities for targeted promotions
 
-#📌 Conclusion
+# 📌 Conclusion
 This SQL-based analysis helps stakeholders understand customer behavior, best-selling products, and revenue trends. These insights can guide strategic decisions like inventory stocking, promotional timing, and country-wise marketing.
