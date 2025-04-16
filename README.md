@@ -37,8 +37,8 @@ Date Functions – EXTRACT(YEAR | MONTH), GROUP BY, ORDER BY
 
 ## Insights 
 - 2011 saw a massive increase in both orders and revenue compared to 2010.
--  2010: 2,025 orders → £741,720
--  2011: 23,875 orders → £8,824,910
+   2010: 2,025 orders → £741,720
+   2011: 23,875 orders → £8,824,910
 
 - The United Kingdom dominated sales with over £8 million in revenue.
 
