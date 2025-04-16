@@ -17,7 +17,8 @@ The dataset includes the following columns:
 - `CustomerID` – Customer identifier  
 - `Country` – Customer location  
 
-> ⚠️ Note: `InvoiceDate` was originally a string. It was converted to `DATETIME` format using:
+> ⚠️ Note: `Imported using CMD after creating a table in MYSQL`
+> -  `InvoiceDate` was imported into string to avoid error. It was converted to `DATETIME` format using:
 ```
 UPDATE RETAIL
 SET InvoiceDate = STR_TO_DATE(InvoiceDate, '%Y-%m-%d %H:%i:%s')
